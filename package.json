@@ -29,5 +29,13 @@
     "tabWidth": 2,
     "trailingComma": "all",
     "printWidth": 100
+  },
+  "dependencies": {
+    "prosemirror-example-setup": "^1.2.1",
+    "prosemirror-menu": "^1.2.1",
+    "prosemirror-model": "^1.18.1",
+    "prosemirror-schema-basic": "^1.2.0",
+    "prosemirror-state": "^1.4.1",
+    "prosemirror-view": "^1.28.2"
   }
 }
